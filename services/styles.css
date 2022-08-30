@@ -1,0 +1,28 @@
+.flex-header {
+    display: flex;
+}
+
+.flex-header div {
+    background-color: aqua;
+    flex: 1 1 0%;
+}
+
+
+#hometitle {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+#mainnotice {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
+
+#text {
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+}
